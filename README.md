@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fut11/fut11/blob/52db6009f28bead10e8970ea111684ce51ac25d5/download%20(1).jpg" width="100%" />
+  <img src="https://github.com/fut11/fut11/blob/9de176eb8e7c180048181f8d51eefa390312bad5/WhatsApp-Video-2025-07-11-at-12.44.12-AM.gif" width="100%" />
 </p>
 <h1 align="center">Hi, I'm Futoon 👾</h1>
 
