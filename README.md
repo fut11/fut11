@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Futoon 👾</h1>
 
-<!--
-**fut11/fut11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎮 Game Developer • 🧠 VR Specialist • 💻 Computer Science Graduate
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Unity • C# • XR Toolkit • Meta SDK
+- Maya • Git • Notion • VC code
+
+### 🔭 Projects in Progress
+- 🎯 Mastermind (Unity, OOP)
+- 🧩 Dungeon Pathfinding Visualizer (BFS, DFS, Dijkstra)
+
+### ✨ What I'm Into
+- VR & Mixed Reality
+- Game Mechanics & UI Design
+- Algorithm Visualization
+
+---
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/futoon)
