@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://media.giphy.com/media/l0HlQ7LRalLJ2CY9a/giphy.gif](https://pin.it/2bLqrcvVh)" width="100%" />
+</p>
 <h1 align="center">Hi, I'm Futoon 👾</h1>
 
 <p align="center">
